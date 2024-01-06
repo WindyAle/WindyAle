@@ -3,7 +3,6 @@
 
 ### Hi there 👋
 소프트웨어 전공 코린이
-<br>AI Data 2023 데이터 라벨링 1기
 
 <!-- Top Languages Card -->
 <a href="https://github.com/WindyAle"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WindyAle&layout=compact&theme=nord&hide_border=true" /></a> 
