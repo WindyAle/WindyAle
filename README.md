@@ -5,7 +5,7 @@
 안녕하세요! 소프트웨어 전공 코린이입니다! 😎
 
 # 📫 Contacts
-- [![GMail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=GMail&logoColor=white&link=mailto:bsjune912@gmail.com)](mailto:bsjune912@gmail.com)
+- [![GMail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=GMail&logoColor=FFFFFF&link=mailto:bsjune912@gmail.com)](mailto:bsjune912@gmail.com)
 - [![Naver Badge](https://img.shields.io/badge/-NAVER-03C75A?style=flat-square&logo=NAVER&logoColor=white&link=https://discord.com/channels/@me)](mailto:june960912@naver.com)
 - [![Discord Badge](https://img.shields.io/badge/-windy＃7830-5865F2?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/@me)](https://discord.com/channels/@me)
 
